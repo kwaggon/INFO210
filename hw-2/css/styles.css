@@ -80,6 +80,35 @@ h1 {
     text-align: center;
 }
 
+p {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.litter {
+    width: 750px;
+}
+
+.author-date{
+    justify-content: center;
+}
+
+.blog-title p{
+    color:rgb(163, 163, 163);
+}
+
+.cats {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 300px 300px 300px;
+    gap: 100px 100px;
+    margin-bottom: 300px;
+}
+
+.cats img{
+    height: 300px;
+}
+
 .image {
     width: 250px ;
 }
