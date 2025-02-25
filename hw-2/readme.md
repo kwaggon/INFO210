@@ -17,4 +17,4 @@ tldr; grids still hurt my brain, specifically the grid-template stuff and I'd li
 
 ### Live Link
 
-[Blog Page](https://{username}.github.io/{reponame}/homework-2)
+[Blog Page](https://kwaggon.github.io/INFO210/hw-2)
